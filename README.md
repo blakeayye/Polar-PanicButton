@@ -2,6 +2,9 @@
  A script that allows cops to use their panic button with O keybind
 
 
+DISCORD: https://discord.gg/polar
+
+
 Configerable Button
 
 ![image](https://user-images.githubusercontent.com/102779658/227052560-d49e2ff5-af45-42a7-8e63-721731ef2e52.png)
